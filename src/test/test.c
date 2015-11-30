@@ -1,6 +1,11 @@
 #include "test.h"
 
-int int main(int argc, char const *argv[])
+int fun()
+{
+    return 0;
+}
+
+int main(int argc, char const *argv[])
 {
     printf("hello world\n");
     return 0;
